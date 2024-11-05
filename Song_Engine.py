@@ -261,3 +261,4 @@ def generate_piece():
 
 if __name__ == "__main__":
     generate_piece()
+# requirements: pip install music21
